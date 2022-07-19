@@ -24,3 +24,7 @@ git clone
 git fork
 
 git ignore
+
+git stash
+git rebase
+git squash
