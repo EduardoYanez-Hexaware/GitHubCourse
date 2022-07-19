@@ -16,3 +16,11 @@ git checkout
 git merge
 
 git diff
+
+git pull
+git push
+
+git clone
+git fork
+
+git ignore
