@@ -2,7 +2,7 @@
 Hexaware / SDET HTD
 
 <div align=center>
-     <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Git%20%20Course-UDEMY-A435F0?style=for-the-badge&logo=Git&labelColor=20232a" /></a>
+     <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git%20%20Course-UDEMY-A435F0?style=for-the-badge&logo=Git&labelColor=20232a" /></a>
 </div>
 
 ## About this repo
